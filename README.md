@@ -5,7 +5,7 @@
 
 * [Description](#description)
 * [Instructions and How to run](#instructions-and-how-to-run)
-* [Leaflet.js and Mapbox](#leaflet-js-and-Mapbox)
+* [Leaflet.js and Mapbox](#leafletjs-and-Mapbox)
 * [Note about ES6](#note-about-es6)
 
 ## Description
